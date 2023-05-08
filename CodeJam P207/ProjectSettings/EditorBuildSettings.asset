@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Forside.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Formspil.unity
+    guid: 00013381c2c902e4c83809d16ae10d97
+  - enabled: 1
+    path: Assets/Scenes/Forbindspil.unity
+    guid: af3987d4443c2fc4fb513fbb1ca475c8
+  - enabled: 1
+    path: Assets/Scenes/Indstillinger.unity
+    guid: f3c6f814c7ecfb44885710e58544f223
+  - enabled: 1
+    path: Assets/Scenes/Lyd.unity
+    guid: 526e8c1de63074d86b17ae8f1cb8e2fa
+  - enabled: 1
+    path: Assets/Scenes/Puslespil.unity
+    guid: af00c345bc642d54fb144139e5a00e79
+  - enabled: 1
+    path: Assets/Scenes/UnderVand.unity
+    guid: 69e75c9d6b8d614499c6ee87b1d0e8bb
+  - enabled: 1
+    path: Assets/Scenes/Vendespil.unity
+    guid: 5074762c7e7b370449e7d94462c69866
+  - enabled: 1
+    path: "Assets/Scenes/Undg\xE5Virus.unity"
+    guid: e0fd8a883d1b24e459d795799e62f8f2
+  m_configObjects: {}
